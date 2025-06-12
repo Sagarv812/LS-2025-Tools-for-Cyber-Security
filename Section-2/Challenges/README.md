@@ -1,3 +1,3 @@
 # Submission Link
-Submit flags at https://forms.gle/gdPNtnwZukHz8okQ8. <br>
-Deadline: 21st July 2024
+Submit flags at **To be announced** <br>
+Deadline: **To be announced**
