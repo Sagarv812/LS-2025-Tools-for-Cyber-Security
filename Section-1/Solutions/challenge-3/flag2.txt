@@ -1,0 +1,3 @@
+flag{th3_m0de7at3_1ev31}
+
+env -i ./level2
